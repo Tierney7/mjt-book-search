@@ -9,7 +9,7 @@ Application was deployed using Heroku
 
 ## Installation 
 npm i 
-npm @ apollo
+npm install @apollo/server graphql
 
 ## Usage
 
