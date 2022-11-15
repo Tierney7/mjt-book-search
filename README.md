@@ -8,7 +8,8 @@ Created an Apollo Provider so that requests can communicate with an Apollo Serve
 Application was deployed using Heroku
 
 ## Installation 
-
+npm i 
+npm @ apollo
 
 ## Usage
 
