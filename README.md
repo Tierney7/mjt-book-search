@@ -12,7 +12,7 @@ npm i
 npm install @apollo/server graphql
 
 ## Usage
-
+![alt text](assets/Screenshot%20(29).png)
 
 ## Credits
 W3schools.com
